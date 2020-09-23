@@ -34,7 +34,7 @@ a {
 p {
   margin-bottom: 1.5em; }
 .h12 {
-  color: rgb(103, 255, 154);
+  color: rgb(83, 243, 14 );
   font-family: "Playfair Display", Georgia, serif;
   font-weight: 400;
   margin: 0 0 30px 0; }
@@ -297,7 +297,7 @@ figure {
         #colorlib-hero .flexslider .slider-text > .slider-text-inner .h11, #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 {
           margin: 0;
           padding: 0;
-          color: rgb(14, 184, 243);
+          color: rgb(226, 243, 14);
           font-family: "Playfair Display", Georgia, serif; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner .h11 .h12  {
           margin-bottom: 20px;
